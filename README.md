@@ -7,7 +7,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson |  Pandas for Exploratory Data Analysis  | • [Lesson](./exploratory-data-analysis.ipynb)<br>• [Solutions](./solution-code/exploratory-data-analysis-solutions.ipynb) |
-| Pandas Joins | Overview of joins with pandas | • [Notebook](./ga_join/code/pandas-join.ipynb)<br>• [Answers](./ga_join/code/pandas-join-answers) |
+| Pandas Joins | Overview of joins with pandas | • [Notebook](./ga_join/code/pandas-join.ipynb)<br>• [Answers](./ga_join/code/pandas-join-answers.ipynb) |
 | Practice | Practice Basic Pandas |• [Notebook](./02-pandas-i/code/intro-to-pandas-i.ipynb) <br> • [Answers](./02-pandas-i/code/intro-to-pandas-i-answers.ipynb)
 |          | Practice Pandas (Missing data, functions, groupbys) | • [Notebook](./02-pandas-i/code/pandas-ii.ipynb)<br>•  [Answers](./05-pandas-ii/code/pandas-ii-answers.ipynb)|
 |          | Pandas data cleaning lab | • [Lab](./practice/pandas-cleaning-apply.ipynb)<br>• [Solutions](./practice/pandas-cleaning-apply-solutions.ipynb) |
